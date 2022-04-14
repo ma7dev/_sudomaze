@@ -5,7 +5,8 @@
 - 👨‍💻 Previously, I have worked as a Computational Data Scientist @ [Center for Quantitative Life Sciences](https://cqls.oregonstate.edu/).
 - 📝 I regularly write articles on [my personal blog](https://sudomaze.dev).
 - 📄 Know about my experiences on [my about me page](https://sudomaze.dev/about) or [LinkedIn](https://linkedin.com/in/sudomaze).
-- 🌱 I’m currently learning more about DevOps/MLOps
+- 🌱 I’m currently learning more about DevOps/MLOps.
+- ⚡ Fun fact: I do live-coding on [Twitch](https://twitch.tv/sudomaze).
 
 ## Goals for 2022
 
@@ -14,11 +15,16 @@ I want to increase my contribution to OSS projects, especially to [PyTorch/\*](h
 ## Get in touch
 
 - Twitter: [@sudomaze](https://twitter.com/sudomaze)
+- Twitch: [ttv/sudomaze](https://twitch.tv/sudomaze)
 - Personal site: [sudomaze.dev](https://sudomaze.dev)
 - LinkedIn: [Mazen Alotaibi](https://linkedin.com/in/sudomaze)
 
 
 ## Support
 
-<p><a href="https://www.buymeacoffee.com/sudomaze"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudomaze" /></a></p><br><br>
+<p width="100%">
+  <a href="https://www.buymeacoffee.com/sudomaze" width="100%"> 
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="75" width="315" alt="sudomaze" />
+  </a>
+</p>
 
