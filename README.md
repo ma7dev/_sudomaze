@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on [my personal blog](https://sudomaze.dev).
 - 📄 Know about my experiences on [my about me page](https://sudomaze.dev/about) or [LinkedIn](https://linkedin.com/in/sudomaze).
 - 🌱 I’m currently learning more about DevOps/MLOps
-- 
+
 ## Goals for 2022
 
 I want to increase my contribution to OSS projects, especially to [PyTorch/\*](https://github.com/pytorch) and relevant libraries/frameworks that I use in the daily.
@@ -18,6 +18,7 @@ I want to increase my contribution to OSS projects, especially to [PyTorch/\*](h
 - LinkedIn: [Mazen Alotaibi](https://linkedin.com/in/sudomaze)
 
 
-### Support:
+## Support
+
 <p><a href="https://www.buymeacoffee.com/sudomaze"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudomaze" /></a></p><br><br>
 
