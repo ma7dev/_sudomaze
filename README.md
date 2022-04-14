@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mazen</h1>
 <h3 align="center">M.S. student under the supervision of <a href="https://web.engr.oregonstate.edu/~lif/">Dr. Fuxin Li</a> @ Oregon State University</h3>
 
-- 🔭 I’m currently working on solving computer vision problems (object detection and multi-object tracking, mostly).
+- 🔭 I’m currently working on solving computer vision problems (object detection and multi-objects tracking, mostly).
 - 👨‍💻 Previously, I have worked as a Computational Data Scientist @ [Center for Quantitative Life Sciences](https://cqls.oregonstate.edu/).
 - 📝 I regularly write articles on [my personal blog](https://sudomaze.dev).
 - 📄 Know about my experiences on [my about me page](https://sudomaze.dev/about) or [LinkedIn](https://linkedin.com/in/sudomaze).
