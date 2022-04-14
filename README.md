@@ -1,7 +1,23 @@
-Mazen Alotaibi is a M.S. student under the supervision of Prof. Fuxin Li at Deep Machine Vision (DMV) in Oregon State University (OSU). He is interested in Computer Vision, Deep Learning, and Data Science. He works on projects on GitHub and participates in Kaggle competitions to distract him from academia. You can connect with him on LinkedIn or contact him via Email.
+<h1 align="center">Hi 👋, I'm Mazen</h1>
+<h3 align="center">M.S. student under the supervision of <a href="https://web.engr.oregonstate.edu/~lif/">Dr. Fuxin Li</a> @ Oregon State University</h3>
 
-Mazen focuses on computer vision, deep learning, and data science. He worked at the Center for Genome Research & Bio-computing (CGRB) as a Computational Data Scientist. He graduated from Oregon State University with a Bachelor of Science (B.S.) degree in Computer Science Applied in Artificial Intelligence; with a minor in Actuarial Science. He worked at CGRB as a Lead GPU Computational Researcher during his senior year at OSU. He was the Vice-President of OSU ML/AI Club (known as OSU AI Club now) for 2017-2018 & 2018-2019.
+- 🔭 I’m currently working on solving computer vision problems (object detection and multi-object tracking, mostly).
+- 👨‍💻 Previously, I have worked as a Computational Data Scientist @ [Center for Quantitative Life Sciences](https://cqls.oregonstate.edu/).
+- 📝 I regularly write articles on [my personal blog](https://sudomaze.dev).
+- 📄 Know about my experiences on [my about me page](https://sudomaze.dev/about) or [LinkedIn](https://linkedin.com/in/sudomaze).
+- 🌱 I’m currently learning more about DevOps/MLOps
+- 
+## Goals for 2022
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sudomaze&count_private=true&show_icons=true&theme=default" />
-</a>
+I want to increase my contribution to OSS projects, especially to [PyTorch/\*](https://github.com/pytorch) and relevant libraries/frameworks that I use in the daily.
+
+## Get in touch
+
+- Twitter: [@sudomaze](https://twitter.com/sudomaze)
+- Personal site: [sudomaze.dev](https://sudomaze.dev)
+- LinkedIn: [Mazen Alotaibi](https://linkedin.com/in/sudomaze)
+
+
+### Support:
+<p><a href="https://www.buymeacoffee.com/sudomaze"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sudomaze" /></a></p><br><br>
+
